@@ -1,0 +1,6 @@
+{
+  "name": "SARDIG TK JOROK TIRAM",
+  "description": "Sistem Arsip Digital (SARDIG) untuk TK JOROK TIRAM - Sistem manajemen kearsipan sekolah terstruktur, aman, dan responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
